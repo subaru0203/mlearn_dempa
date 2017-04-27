@@ -51,4 +51,4 @@ def detect_face(img_file):
 
 if __name__ == "__main__":
     param = sys.argv
-    detect_face(param[1], '.', param[2])
+    detect_face(param[1])
